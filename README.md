@@ -1,4 +1,4 @@
-# SiK-bomberman
+# SiK - Bomberman
 
 Computer Networks - 4. semester @ MIMUW
 
